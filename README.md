@@ -9,6 +9,7 @@ Future: I will consider adding TypeScript links.
 
 ### React
 * [Architecture & Design](#architecture-and-design)
+* [Authentication](#authentication)
 * [Context](#context)
 * [CSS-in-JS](#css-in-js)
 * [Data Fetching](#data-fetching)
@@ -40,6 +41,10 @@ Future: I will consider adding TypeScript links.
 * [Domain-Driven Design With React](https://css-tricks.com/domain-driven-design-with-react/)
 * [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
 * [The Benefits of Orthogonal React Components](https://dmitripavlutin.com/orthogonal-react-components/)
+* [A deep dive into React Fiber internals](https://blog.logrocket.com/deep-dive-into-react-fiber-internals/)
+
+### Authentication
+* [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
 
 ### Context
 * [Redux VS React Context: Which one should you choose?](https://www.ibrahima-ndaw.com/blog/redux-vs-react-context-which-one-should-you-choose/)
@@ -63,6 +68,7 @@ Future: I will consider adding TypeScript links.
 * [How to get previous props/state with React Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
 * [React's useEffect and useRef Explained for Mortals](https://leewarrick.com/blog/react-use-effect-explained/)
 * [How to Use the useReducer React Hook to Share Data Between Components](https://medium.com/swlh/how-to-use-the-usereducer-react-hook-to-share-data-between-components)
+* [Introduction to React.memo, useMemo and useCallback](https://medium.com/shot-code/introduction-to-react-memo-usememo-and-usecallback)
 
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance)
@@ -79,6 +85,7 @@ Future: I will consider adding TypeScript links.
 ### Redux
 * [Official Redux Style Guide](https://redux.js.org/style-guide/style-guide/)
 * [How I reduced the code in my Redux app by using Redux Hooks](https://medium.com/javascript-in-plain-english/how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks)
+* [Bridging the Gap between React's useState, useReducer, and Redux](https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/)
 
 ### Routing
 * [Everything I Know About UI Routing by Ryan Florence](https://gist.github.com/ryanflorence/f812198561c58aec1326ac800e6ea519)
@@ -91,10 +98,12 @@ Future: I will consider adding TypeScript links.
 ### Styled Components
 * [React. 7 tricks to work with Styled Components](https://medium.com/javascript-in-plain-english/react-7-tricks-to-work-with-styled-components)
 * [Styled Components, Styled Systems and How They Work](https://medium.com/rangle-io/styled-components-styled-systems-and-how-they-work)
+* [Are You Drowning In A Pile Of Styled React Components?](https://codeburst.io/are-you-drowning-in-a-pile-of-styled-react-components)
 
 ### Suspense
 * [Using Suspense with react-query](https://blog.logrocket.com/using-suspense-with-react-query/)
 * [Diving Into React Suspense Render-as-You-Fetch for REST APIs](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis)
+* [Suspense Explained](https://adamrackis.dev/suspense-explained/)
 
 ### Testing
 * [Behavior-driven React development with Cucumber](https://medium.com/swlh/behavior-driven-react-development-with-cucumber)

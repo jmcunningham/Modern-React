@@ -10,9 +10,9 @@ Future: I will consider adding TypeScript links.
 * [Symbols](#symbols)
 
 
-#### React
+## React
 
-#### Javascript
+## Javascript
 
-## Symbols
+### Symbols
 * [Deep dive into ES6 Symbols](https://everyday.codes/javascript/deep-dive-into-es6-symbols/)

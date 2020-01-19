@@ -8,7 +8,9 @@ NOTE 2: Some of these links may require a Medium membership. If you find a link 
 Future: I will consider adding TypeScript links.
 
 ### React
+* [Architecture & Design](#architecture-and-design)
 * [Context](#context)
+* [CSS-in-JS](#css-in-js)
 * [Dev Tools](#dev-tools)
 * [Hooks](#hooks)
 * [Performance](#performance)
@@ -17,6 +19,7 @@ Future: I will consider adding TypeScript links.
 * [Routing](#routing)
 * [Storybook](#storybook)
 * [Styled Components](#styled-components)
+* [Suspense](#suspense)
 
 ### Javascript
 * [Symbols](#symbols)
@@ -24,14 +27,21 @@ Future: I will consider adding TypeScript links.
 
 ## React
 
+### Architecture and Design
+* [Sharing React Components: From Atoms and Molecules to Pages](https://blog.bitsrc.io/sharing-react-components-from-atoms-and-molecules-to-pages)
+* [Domain Driven Design and Functional Pure UI Components](https://dev.to/kmruiz/domain-driven-design-and-functional-pure-ui-components)
+
 ### Context
 * [Redux VS React Context: Which one should you choose?](https://www.ibrahima-ndaw.com/blog/redux-vs-react-context-which-one-should-you-choose/)
+
+### CSS-in-JS
+* [Understanding CSS-in-JS](https://www.telerik.com/blogs/understanding-css-in-js)
 
 ### Dev Tools
 * [Adding React Fast Refresh to Your Create React App Project](https://dutzi.party/react-fast-refresh/)
 
 ### Hooks
-# [How to get previous props/state with React Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
+* [How to get previous props/state with React Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
 
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance)
@@ -51,6 +61,11 @@ Future: I will consider adding TypeScript links.
 
 ### Styled Components
 * [React. 7 tricks to work with Styled Components](https://medium.com/javascript-in-plain-english/react-7-tricks-to-work-with-styled-components)
+* [Styled Components, Styled Systems and How They Work](https://medium.com/rangle-io/styled-components-styled-systems-and-how-they-work)
+
+### Suspense
+* [Using Suspense with react-query](https://blog.logrocket.com/using-suspense-with-react-query/)
+* [Diving Into React Suspense Render-as-You-Fetch for REST APIs](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis)
 
 ## Javascript
 

@@ -38,6 +38,8 @@ Future: I will consider adding TypeScript links.
 * [14 Beneficial Tips to Write Cleaner Code in React Apps](https://jsmanifest.com/14-beneficial-coding-tips-to-write-clean-code-in-react/)
 * [Some Best Practices for Building a React App With Hooks](https://medium.com/better-programming/some-best-practices-for-building-a-react-app-with-hooks)
 * [Domain-Driven Design With React](https://css-tricks.com/domain-driven-design-with-react/)
+* [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
+* [The Benefits of Orthogonal React Components](https://dmitripavlutin.com/orthogonal-react-components/)
 
 ### Context
 * [Redux VS React Context: Which one should you choose?](https://www.ibrahima-ndaw.com/blog/redux-vs-react-context-which-one-should-you-choose/)
@@ -65,8 +67,8 @@ Future: I will consider adding TypeScript links.
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance)
 * [Trim the Fat From Your Bundles Using Webpack Analyzer & React Lazy/Suspense](https://itnext.io/trim-the-fat-from-your-bundles-using-webpack-analyzer-react-lazy-suspense)
-* [6 tips for better React performance
-](https://itnext.io/6-tips-for-better-react-performance)
+* [6 tips for better React performance](https://itnext.io/6-tips-for-better-react-performance)
+* [A Story of a React Re-Rendering Bug](https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)
@@ -75,6 +77,7 @@ Future: I will consider adding TypeScript links.
 * [From create-react-app to PWA](https://blog.logrocket.com/from-create-react-app-to-pwa/)
 
 ### Redux
+* [Official Redux Style Guide](https://redux.js.org/style-guide/style-guide/)
 * [How I reduced the code in my Redux app by using Redux Hooks](https://medium.com/javascript-in-plain-english/how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks)
 
 ### Routing
@@ -96,6 +99,9 @@ Future: I will consider adding TypeScript links.
 ### Testing
 * [Behavior-driven React development with Cucumber](https://medium.com/swlh/behavior-driven-react-development-with-cucumber)
 * Javascript testing series from wanago.io: [#1. Explaining types of tests. Basics of unit testing with Jest](https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest/), [#2. Introducing Enzyme and testing React components](https://wanago.io/2018/09/03/javascript-testing-tutorial-part-two-introducing-enzyme-and-testing-react-components/), [#3. Testing props, the mount function and snapshot tests](https://wanago.io/2018/09/10/javascript-testing-tutorial-part-three-testing-props-the-mount-function-and-snapshot-tests/), [#4. Mocking API calls and simulating React components interactions](https://wanago.io/2018/09/17/javascript-testing-tutorial-part-four-mocking-api-calls-and-simulating-react-components-interactions/), [#5. Testing hooks with react-hooks-testing-library and Redux](https://wanago.io/2019/12/16/javascript-testing-5-testing-hooks-with-react-hooks-testing-library-and-redux/), [#6. Introduction to End-to-End testing with Cypress](https://wanago.io/2019/12/30/javascript-testing-introduction-end-to-end-testing-cypress/), [#7. Diving deeper into commands and selectors in Cypress](https://wanago.io/2020/01/06/javascript-testing-commands-and-selectors-in-cypress/), [#8. Integrating Cypress with Cucumber and Gherkin](https://wanago.io/2020/01/13/javascript-testing-cypress-cucumber/)
+* [Mocking React hooks when unit testing using Jest](https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest)
+* [Testing React Hooks With Enzyme and React Testing Library](https://css-tricks.com/testing-react-hooks-with-enzyme-and-react-testing-library/)
+* [Testing Custom React Hooks with Jest](https://www.newline.co/@jamesfulford/testing-custom-react-hooks-with-jest)
 
 ## Javascript
 

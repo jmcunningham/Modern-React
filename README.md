@@ -59,6 +59,7 @@ Future: I will consider adding TypeScript links.
 
 ### Dev Tools
 * [Adding React Fast Refresh to Your Create React App Project](https://dutzi.party/react-fast-refresh/)
+* [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
 
 ### Forms
 * [Best Practices for Handling a Form With Multiple Inputs Using React Hooks](https://medium.com/better-programming/best-practices-for-handling-a-form-with-multiple-inputs-using-react-hooks)

@@ -142,15 +142,15 @@ Future: I will consider adding TypeScript links.
 * [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
 
 ### Testing
-* [Behavior-driven React development with Cucumber](https://medium.com/swlh/behavior-driven-react-development-with-cucumber)
+* [Behavior-driven React development with Cucumber](https://medium.com/swlh/behavior-driven-react-development-with-cucumber-faf596d9d71b)
 * Javascript testing series from wanago.io: [#1. Explaining types of tests. Basics of unit testing with Jest](https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest/), [#2. Introducing Enzyme and testing React components](https://wanago.io/2018/09/03/javascript-testing-tutorial-part-two-introducing-enzyme-and-testing-react-components/), [#3. Testing props, the mount function and snapshot tests](https://wanago.io/2018/09/10/javascript-testing-tutorial-part-three-testing-props-the-mount-function-and-snapshot-tests/), [#4. Mocking API calls and simulating React components interactions](https://wanago.io/2018/09/17/javascript-testing-tutorial-part-four-mocking-api-calls-and-simulating-react-components-interactions/), [#5. Testing hooks with react-hooks-testing-library and Redux](https://wanago.io/2019/12/16/javascript-testing-5-testing-hooks-with-react-hooks-testing-library-and-redux/), [#6. Introduction to End-to-End testing with Cypress](https://wanago.io/2019/12/30/javascript-testing-introduction-end-to-end-testing-cypress/), [#7. Diving deeper into commands and selectors in Cypress](https://wanago.io/2020/01/06/javascript-testing-commands-and-selectors-in-cypress/), [#8. Integrating Cypress with Cucumber and Gherkin](https://wanago.io/2020/01/13/javascript-testing-cypress-cucumber/)
 * [Mocking React hooks when unit testing using Jest](https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest)
 * [Testing React Hooks With Enzyme and React Testing Library](https://css-tricks.com/testing-react-hooks-with-enzyme-and-react-testing-library/)
-* [Testing Custom React Hooks with Jest](https://www.newline.co/@jamesfulford/testing-custom-react-hooks-with-jest)
-* [How to Test React Hooks (The Async Ones)](https://medium.com/flatiron-labs/testing-async-react-hooks)
+* [Testing Custom React Hooks with Jest](https://www.newline.co/@jamesfulford/testing-custom-react-hooks-with-jest--8372a502)
+* [How to Test React Hooks (The Async Ones)](https://medium.com/flatiron-labs/testing-async-react-hooks-6a4d0ce2654c)
 * [Test React apps with React Testing Library](https://thomlom.dev/test-react-testing-library)
-* [How to Create and Test React Custom Hooks](https://blog.bitsrc.io/how-to-create-and-test-react-custom-hooks)
-* [How to Write Functional Tests in React (Part 1)](https://blog.echobind.com/writing-functional-tests-with-react-testing-library-part-1)
+* [How to Create and Test React Custom Hooks](https://blog.bitsrc.io/how-to-create-and-test-react-custom-hooks-927fe468c361)
+* [How to Write Functional Tests in React (Part 1)](https://blog.echobind.com/writing-functional-tests-with-react-testing-library-part-1-470870ee1a6)
 * [Complete Guide on Unit and Integration Testing of React/Redux Connected Forms](https://blog.bitsrc.io/complete-guide-on-unit-and-integration-testing-of-react-redux-connected-forms-cd6f8476161)
 
 ## Javascript

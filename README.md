@@ -37,7 +37,7 @@ Future: I will consider adding TypeScript links.
 ### Architecture and Design
 * [Sharing React Components: From Atoms and Molecules to Pages](https://blog.bitsrc.io/sharing-react-components-from-atoms-and-molecules-to-pages-2d0d722b1dba)
 * [Domain Driven Design and Functional Pure UI Components](https://dev.to/kmruiz/domain-driven-design-and-functional-pure-ui-components-29a7)
-* [Understanding Compound Components in React](https://blog.bitsrc.io/understanding-compound-components-in-react)
+* [Understanding Compound Components in React](https://blog.bitsrc.io/understanding-compound-components-in-react-23c4b84535b5)
 * [14 Beneficial Tips to Write Cleaner Code in React Apps](https://jsmanifest.com/14-beneficial-coding-tips-to-write-clean-code-in-react/)
 * [Some Best Practices for Building a React App With Hooks](https://medium.com/better-programming/some-best-practices-for-building-a-react-app-with-hooks)
 * [Domain-Driven Design With React](https://css-tricks.com/domain-driven-design-with-react/)
@@ -73,6 +73,7 @@ Future: I will consider adding TypeScript links.
 
 ### Forms
 * [Best Practices for Handling a Form With Multiple Inputs Using React Hooks](https://medium.com/better-programming/best-practices-for-handling-a-form-with-multiple-inputs-using-react-hooks)
+* [Handling React Forms and Validation with Formik and Yup](https://blog.bitsrc.io/handling-react-forms-and-validation-with-formik-and-yup-dc789fd9e485)
 
 ### Hooks
 * [Deep dive: How do React hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/)
@@ -92,7 +93,7 @@ Future: I will consider adding TypeScript links.
 * [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react)
 
 ### Performance
-* [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance)
+* [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
 * [Trim the Fat From Your Bundles Using Webpack Analyzer & React Lazy/Suspense](https://itnext.io/trim-the-fat-from-your-bundles-using-webpack-analyzer-react-lazy-suspense)
 * [6 tips for better React performance](https://itnext.io/6-tips-for-better-react-performance)
 * [A Story of a React Re-Rendering Bug](https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/)
@@ -132,6 +133,7 @@ Future: I will consider adding TypeScript links.
 * [React. 7 tricks to work with Styled Components](https://medium.com/javascript-in-plain-english/react-7-tricks-to-work-with-styled-components)
 * [Styled Components, Styled Systems and How They Work](https://medium.com/rangle-io/styled-components-styled-systems-and-how-they-work)
 * [Are You Drowning In A Pile Of Styled React Components?](https://codeburst.io/are-you-drowning-in-a-pile-of-styled-react-components)
+* [Building Reusable React UI Components with styled-components](https://blog.bitsrc.io/building-reusable-react-ui-components-with-styled-components-290686648004)
 
 ### Suspense
 * [Using Suspense with react-query](https://blog.logrocket.com/using-suspense-with-react-query/)
@@ -149,6 +151,7 @@ Future: I will consider adding TypeScript links.
 * [Test React apps with React Testing Library](https://thomlom.dev/test-react-testing-library)
 * [How to Create and Test React Custom Hooks](https://blog.bitsrc.io/how-to-create-and-test-react-custom-hooks)
 * [How to Write Functional Tests in React (Part 1)](https://blog.echobind.com/writing-functional-tests-with-react-testing-library-part-1)
+* [Complete Guide on Unit and Integration Testing of React/Redux Connected Forms](https://blog.bitsrc.io/complete-guide-on-unit-and-integration-testing-of-react-redux-connected-forms-cd6f8476161)
 
 ## Javascript
 

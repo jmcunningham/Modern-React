@@ -46,6 +46,8 @@ Future: I will consider adding TypeScript links.
 * [A deep dive into React Fiber internals](https://blog.logrocket.com/deep-dive-into-react-fiber-internals/)
 * [Making stupid React smart in re-rendering](https://medium.com/swlh/making-stupid-react-smart-in-re-rendering)
 * [8 Useful Tricks for React Apps You Should Know](https://medium.com/better-programming/8-useful-tricks-for-react-apps-you-should-know)
+* [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it)
+* [Leaky Components](https://medium.com/charisol-community/leaky-components)
 
 ### Authentication
 * [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
@@ -81,6 +83,10 @@ Future: I will consider adding TypeScript links.
 * [The Wise Guide to React useState() Hook](https://dmitripavlutin.com/react-usestate-hook-guide/)
 * Two Part Series: [Frustrations with React Hooks](https://blog.logrocket.com/frustrations-with-react-hooks/), [Solutions to Frustrations With React Hooks](https://blog.logrocket.com/solutions-to-frustrations-with-react-hooks/)
 * [What do they mean by memoized callbacks and what does useCallback actually do?](https://lukaszmakuch.pl/post/usecallback)
+* [Be Aware of Stale Closures when Using React Hooks](https://dmitripavlutin.com/react-hooks-stale-closures/)
+* [When to useLayoutEffect Instead of useEffect](https://daveceddia.com/useeffect-vs-uselayouteffect/)
+* [React Hooks: Recipes](https://codeburst.io/react-hooks-recipes)
+* [The Power of React Hooks](https://medium.com/better-programming/the-power-of-react-hooks)
 
 ### Hooks - Custom
 * [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react)
@@ -92,6 +98,8 @@ Future: I will consider adding TypeScript links.
 * [A Story of a React Re-Rendering Bug](https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/)
 * [How to Memoize Components in React](https://medium.com/@rossbulat/how-to-memoize-in-react)
 * React Hooks Oops: [React hooks... Oops! Part 1 - Introduction](https://lukaszmakuch.pl/post/react-hooks-oops-part-1-introduction/), [React hooks... Oops! Part 2 - why does my effect run multiple times with the same dependencies?](https://lukaszmakuch.pl/post/react-hooks-oops-part-2-effect-runs-multiple-times-with-the-same-dependencies/), [React hooks... Oops! Part 3 - an effect doesn't run again when its dependencies change](https://lukaszmakuch.pl/post/react-hooks-oops-part-3-an-effect-does-not-run-again-when-its-dependencies-change)
+* [Increase your React + Redux Application Performance With the Reselect Library](https://medium.com/better-programming/increase-your-react-redux-application-performance-with-reselect-library)
+* [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)
@@ -108,14 +116,17 @@ Future: I will consider adding TypeScript links.
 ### Refs
 * [A guide to React refs: useRef and createRef](https://blog.logrocket.com/a-guide-to-react-refs/)
 * [Cleaning up the DOM with ForwardRef in React](https://blog.logrocket.com/cleaning-up-the-dom-with-forwardref-in-react/)
+* [React: Using Refs with the useRef Hook](https://medium.com/@rossbulat/react-using-refs-with-the-useref-hook)
 
 ### Routing
 * [Everything I Know About UI Routing by Ryan Florence](https://gist.github.com/ryanflorence/f812198561c58aec1326ac800e6ea519)
 * [How to restrict your Routes and Links in React.js now with Hooks](https://medium.com/craft-academy/how-to-restrict-your-routes-and-links-in-react-js-now-with-hooks)
+* [A Quick Start Guide to Query Strings with React Router](https://spin.atomicobject.com/2019/10/01/a-quick-start-guide-to-query-strings-with-react-router/)
 
 ### Storybook
 * [Storybook 5.3](https://medium.com/storybookjs/storybook-5-3)
 * [Declarative Storybook configuration](https://medium.com/storybookjs/declarative-storybook-configuration)
+* [Learn Storybook: Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 ### Styled Components
 * [React. 7 tricks to work with Styled Components](https://medium.com/javascript-in-plain-english/react-7-tricks-to-work-with-styled-components)
@@ -134,6 +145,10 @@ Future: I will consider adding TypeScript links.
 * [Mocking React hooks when unit testing using Jest](https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest)
 * [Testing React Hooks With Enzyme and React Testing Library](https://css-tricks.com/testing-react-hooks-with-enzyme-and-react-testing-library/)
 * [Testing Custom React Hooks with Jest](https://www.newline.co/@jamesfulford/testing-custom-react-hooks-with-jest)
+* [How to Test React Hooks (The Async Ones)](https://medium.com/flatiron-labs/testing-async-react-hooks)
+* [Test React apps with React Testing Library](https://thomlom.dev/test-react-testing-library)
+* [How to Create and Test React Custom Hooks](https://blog.bitsrc.io/how-to-create-and-test-react-custom-hooks)
+* [How to Write Functional Tests in React (Part 1)](https://blog.echobind.com/writing-functional-tests-with-react-testing-library-part-1)
 
 ## Javascript
 

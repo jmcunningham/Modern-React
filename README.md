@@ -16,6 +16,7 @@ Future: I will consider adding TypeScript links.
 * [Dev Tools](#dev-tools)
 * [Forms](#forms)
 * [Hooks](#hooks)
+* [Hooks - Custom](#hooks-custom)
 * [Performance](#performance)
 * [Portals](#portals)
 * [PWA](#pwa)
@@ -77,6 +78,9 @@ Future: I will consider adding TypeScript links.
 * [Introduction to React.memo, useMemo and useCallback](https://medium.com/shot-code/introduction-to-react-memo-usememo-and-usecallback)
 * [The Wise Guide to React useState() Hook](https://dmitripavlutin.com/react-usestate-hook-guide/)
 * Two Part Series: [Frustrations with React Hooks](https://blog.logrocket.com/frustrations-with-react-hooks/), [Solutions to Frustrations With React Hooks](https://blog.logrocket.com/solutions-to-frustrations-with-react-hooks/)
+
+### Hooks - Custom
+* [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react)
 
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance)

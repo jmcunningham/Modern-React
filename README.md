@@ -44,6 +44,7 @@ Future: I will consider adding TypeScript links.
 * [The Benefits of Orthogonal React Components](https://dmitripavlutin.com/orthogonal-react-components/)
 * [A deep dive into React Fiber internals](https://blog.logrocket.com/deep-dive-into-react-fiber-internals/)
 * [Making stupid React smart in re-rendering](https://medium.com/swlh/making-stupid-react-smart-in-re-rendering)
+* [8 Useful Tricks for React Apps You Should Know](https://medium.com/better-programming/8-useful-tricks-for-react-apps-you-should-know)
 
 ### Authentication
 * [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
@@ -75,12 +76,14 @@ Future: I will consider adding TypeScript links.
 * [How to Use the useReducer React Hook to Share Data Between Components](https://medium.com/swlh/how-to-use-the-usereducer-react-hook-to-share-data-between-components)
 * [Introduction to React.memo, useMemo and useCallback](https://medium.com/shot-code/introduction-to-react-memo-usememo-and-usecallback)
 * [The Wise Guide to React useState() Hook](https://dmitripavlutin.com/react-usestate-hook-guide/)
+* Two Part Series: [Frustrations with React Hooks](https://blog.logrocket.com/frustrations-with-react-hooks/), [Solutions to Frustrations With React Hooks](https://blog.logrocket.com/solutions-to-frustrations-with-react-hooks/)
 
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance)
 * [Trim the Fat From Your Bundles Using Webpack Analyzer & React Lazy/Suspense](https://itnext.io/trim-the-fat-from-your-bundles-using-webpack-analyzer-react-lazy-suspense)
 * [6 tips for better React performance](https://itnext.io/6-tips-for-better-react-performance)
 * [A Story of a React Re-Rendering Bug](https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/)
+* [How to Memoize Components in React](https://medium.com/@rossbulat/how-to-memoize-in-react)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)
@@ -92,9 +95,11 @@ Future: I will consider adding TypeScript links.
 * [Official Redux Style Guide](https://redux.js.org/style-guide/style-guide/)
 * [How I reduced the code in my Redux app by using Redux Hooks](https://medium.com/javascript-in-plain-english/how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks)
 * [Bridging the Gap between React's useState, useReducer, and Redux](https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/)
+* [Selectors in a Redux World](https://medium.com/top-hat-engineering/selectors-in-a-redux-world)
 
 ### Refs
 * [A guide to React refs: useRef and createRef](https://blog.logrocket.com/a-guide-to-react-refs/)
+* [Cleaning up the DOM with ForwardRef in React](https://blog.logrocket.com/cleaning-up-the-dom-with-forwardref-in-react/)
 
 ### Routing
 * [Everything I Know About UI Routing by Ryan Florence](https://gist.github.com/ryanflorence/f812198561c58aec1326ac800e6ea519)

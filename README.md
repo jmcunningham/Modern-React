@@ -55,6 +55,7 @@ Future: I will consider adding TypeScript links.
 * [The Problem with React's Context API](https://leewarrick.com/blog/the-problem-with-context/)
 * [Manage Global State with Context API and Hooks](https://react.christmas/2019/7)
 * [Learn React Context in 5 Minutes - A Beginner's Tutorial](https://www.freecodecamp.org/news/react-context-in-5-minutes/)
+* [React Context Patterns with useContext Hook](https://medium.com/javascript-in-plain-english/react-context-patterns-with-usecontext-hook)
 
 ### CSS-in-JS
 * [Understanding CSS-in-JS](https://www.telerik.com/blogs/understanding-css-in-js)
@@ -63,6 +64,7 @@ Future: I will consider adding TypeScript links.
 * [React Adaptive Loading Hooks & Utilities](https://github.com/GoogleChromeLabs/react-adaptive-hooks/blob/master/README.md)
 
 ### Dev Tools
+* [Why Did You Render](https://github.com/welldone-software/why-did-you-render)
 * [Adding React Fast Refresh to Your Create React App Project](https://dutzi.party/react-fast-refresh/)
 * [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
 * [React Dev Tools - Debug Like a Ninja](https://medium.com/the-thinkmill/react-dev-tools-debug-like-a-ninja-c3a5d09895c6)
@@ -78,6 +80,7 @@ Future: I will consider adding TypeScript links.
 * [Introduction to React.memo, useMemo and useCallback](https://medium.com/shot-code/introduction-to-react-memo-usememo-and-usecallback)
 * [The Wise Guide to React useState() Hook](https://dmitripavlutin.com/react-usestate-hook-guide/)
 * Two Part Series: [Frustrations with React Hooks](https://blog.logrocket.com/frustrations-with-react-hooks/), [Solutions to Frustrations With React Hooks](https://blog.logrocket.com/solutions-to-frustrations-with-react-hooks/)
+* [What do they mean by memoized callbacks and what does useCallback actually do?](https://lukaszmakuch.pl/post/usecallback)
 
 ### Hooks - Custom
 * [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react)
@@ -88,6 +91,7 @@ Future: I will consider adding TypeScript links.
 * [6 tips for better React performance](https://itnext.io/6-tips-for-better-react-performance)
 * [A Story of a React Re-Rendering Bug](https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/)
 * [How to Memoize Components in React](https://medium.com/@rossbulat/how-to-memoize-in-react)
+* React Hooks Oops: [React hooks... Oops! Part 1 - Introduction](https://lukaszmakuch.pl/post/react-hooks-oops-part-1-introduction/), [React hooks... Oops! Part 2 - why does my effect run multiple times with the same dependencies?](https://lukaszmakuch.pl/post/react-hooks-oops-part-2-effect-runs-multiple-times-with-the-same-dependencies/), [React hooks... Oops! Part 3 - an effect doesn't run again when its dependencies change](https://lukaszmakuch.pl/post/react-hooks-oops-part-3-an-effect-does-not-run-again-when-its-dependencies-change)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)

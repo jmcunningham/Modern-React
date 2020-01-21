@@ -35,7 +35,7 @@ Future: I will consider adding TypeScript links.
 ## React
 
 ### Architecture and Design
-* [Sharing React Components: From Atoms and Molecules to Pages](https://blog.bitsrc.io/sharing-react-components-from-atoms-and-molecules-to-pages)
+* [Sharing React Components: From Atoms and Molecules to Pages](https://blog.bitsrc.io/sharing-react-components-from-atoms-and-molecules-to-pages-2d0d722b1dba)
 * [Domain Driven Design and Functional Pure UI Components](https://dev.to/kmruiz/domain-driven-design-and-functional-pure-ui-components)
 * [Understanding Compound Components in React](https://blog.bitsrc.io/understanding-compound-components-in-react)
 * [14 Beneficial Tips to Write Cleaner Code in React Apps](https://jsmanifest.com/14-beneficial-coding-tips-to-write-clean-code-in-react/)

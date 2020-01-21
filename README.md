@@ -57,7 +57,7 @@ Future: I will consider adding TypeScript links.
 * [The Problem with React's Context API](https://leewarrick.com/blog/the-problem-with-context/)
 * [Manage Global State with Context API and Hooks](https://react.christmas/2019/7)
 * [Learn React Context in 5 Minutes - A Beginner's Tutorial](https://www.freecodecamp.org/news/react-context-in-5-minutes/)
-* [React Context Patterns with useContext Hook](https://medium.com/javascript-in-plain-english/react-context-patterns-with-usecontext-hook)
+* [React Context Patterns with useContext Hook](https://medium.com/javascript-in-plain-english/react-context-patterns-with-usecontext-hook-62085b90c7eb)
 
 ### CSS-in-JS
 * [Understanding CSS-in-JS](https://www.telerik.com/blogs/understanding-css-in-js)
@@ -72,25 +72,25 @@ Future: I will consider adding TypeScript links.
 * [React Dev Tools - Debug Like a Ninja](https://medium.com/the-thinkmill/react-dev-tools-debug-like-a-ninja-c3a5d09895c6)
 
 ### Forms
-* [Best Practices for Handling a Form With Multiple Inputs Using React Hooks](https://medium.com/better-programming/best-practices-for-handling-a-form-with-multiple-inputs-using-react-hooks)
+* [Best Practices for Handling a Form With Multiple Inputs Using React Hooks](https://medium.com/better-programming/best-practices-for-handling-a-form-with-multiple-inputs-using-react-hooks-a0abf9207284)
 * [Handling React Forms and Validation with Formik and Yup](https://blog.bitsrc.io/handling-react-forms-and-validation-with-formik-and-yup-dc789fd9e485)
 
 ### Hooks
 * [Deep dive: How do React hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/)
 * [How to get previous props/state with React Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
 * [React's useEffect and useRef Explained for Mortals](https://leewarrick.com/blog/react-use-effect-explained/)
-* [How to Use the useReducer React Hook to Share Data Between Components](https://medium.com/swlh/how-to-use-the-usereducer-react-hook-to-share-data-between-components)
-* [Introduction to React.memo, useMemo and useCallback](https://medium.com/shot-code/introduction-to-react-memo-usememo-and-usecallback)
+* [How to Use the useReducer React Hook to Share Data Between Components](https://medium.com/swlh/how-to-use-the-usereducer-react-hook-to-share-data-between-components-83123c9580a4)
+* [Introduction to React.memo, useMemo and useCallback](https://medium.com/shot-code/introduction-to-react-memo-usememo-and-usecallback-ca4a312d19b3)
 * [The Wise Guide to React useState() Hook](https://dmitripavlutin.com/react-usestate-hook-guide/)
 * Two Part Series: [Frustrations with React Hooks](https://blog.logrocket.com/frustrations-with-react-hooks/), [Solutions to Frustrations With React Hooks](https://blog.logrocket.com/solutions-to-frustrations-with-react-hooks/)
 * [What do they mean by memoized callbacks and what does useCallback actually do?](https://lukaszmakuch.pl/post/usecallback)
 * [Be Aware of Stale Closures when Using React Hooks](https://dmitripavlutin.com/react-hooks-stale-closures/)
 * [When to useLayoutEffect Instead of useEffect](https://daveceddia.com/useeffect-vs-uselayouteffect/)
-* [React Hooks: Recipes](https://codeburst.io/react-hooks-recipes)
-* [The Power of React Hooks](https://medium.com/better-programming/the-power-of-react-hooks)
+* [React Hooks: Recipes](https://codeburst.io/react-hooks-recipes-1c18e5984abe)
+* [The Power of React Hooks](https://medium.com/better-programming/introduction-to-react-hooks-e0102c038bf1)
 
 ### Hooks - Custom
-* [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react)
+* [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react-3f1779b73568)
 
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)

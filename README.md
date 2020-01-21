@@ -20,10 +20,11 @@ Future: I will consider adding TypeScript links.
 * [Portals](#portals)
 * [PWA](#pwa)
 * [Redux](#redux)
+* [Refs](#refs)
 * [Routing](#routing)
 * [Storybook](#storybook)
 * [Styled Components](#styled-components)
-* [Suspense](#suspense)
+* [Suspense & Concurrent](#suspense)
 * [Testing](#testing)
 
 ### Javascript
@@ -42,6 +43,7 @@ Future: I will consider adding TypeScript links.
 * [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
 * [The Benefits of Orthogonal React Components](https://dmitripavlutin.com/orthogonal-react-components/)
 * [A deep dive into React Fiber internals](https://blog.logrocket.com/deep-dive-into-react-fiber-internals/)
+* [Making stupid React smart in re-rendering](https://medium.com/swlh/making-stupid-react-smart-in-re-rendering)
 
 ### Authentication
 * [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
@@ -50,6 +52,7 @@ Future: I will consider adding TypeScript links.
 * [Redux VS React Context: Which one should you choose?](https://www.ibrahima-ndaw.com/blog/redux-vs-react-context-which-one-should-you-choose/)
 * [The Problem with React's Context API](https://leewarrick.com/blog/the-problem-with-context/)
 * [Manage Global State with Context API and Hooks](https://react.christmas/2019/7)
+* [Learn React Context in 5 Minutes - A Beginner's Tutorial](https://www.freecodecamp.org/news/react-context-in-5-minutes/)
 
 ### CSS-in-JS
 * [Understanding CSS-in-JS](https://www.telerik.com/blogs/understanding-css-in-js)
@@ -60,6 +63,7 @@ Future: I will consider adding TypeScript links.
 ### Dev Tools
 * [Adding React Fast Refresh to Your Create React App Project](https://dutzi.party/react-fast-refresh/)
 * [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
+* [React Dev Tools - Debug Like a Ninja](https://medium.com/the-thinkmill/react-dev-tools-debug-like-a-ninja-c3a5d09895c6)
 
 ### Forms
 * [Best Practices for Handling a Form With Multiple Inputs Using React Hooks](https://medium.com/better-programming/best-practices-for-handling-a-form-with-multiple-inputs-using-react-hooks)
@@ -70,6 +74,7 @@ Future: I will consider adding TypeScript links.
 * [React's useEffect and useRef Explained for Mortals](https://leewarrick.com/blog/react-use-effect-explained/)
 * [How to Use the useReducer React Hook to Share Data Between Components](https://medium.com/swlh/how-to-use-the-usereducer-react-hook-to-share-data-between-components)
 * [Introduction to React.memo, useMemo and useCallback](https://medium.com/shot-code/introduction-to-react-memo-usememo-and-usecallback)
+* [The Wise Guide to React useState() Hook](https://dmitripavlutin.com/react-usestate-hook-guide/)
 
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance)
@@ -88,6 +93,9 @@ Future: I will consider adding TypeScript links.
 * [How I reduced the code in my Redux app by using Redux Hooks](https://medium.com/javascript-in-plain-english/how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks)
 * [Bridging the Gap between React's useState, useReducer, and Redux](https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/)
 
+### Refs
+* [A guide to React refs: useRef and createRef](https://blog.logrocket.com/a-guide-to-react-refs/)
+
 ### Routing
 * [Everything I Know About UI Routing by Ryan Florence](https://gist.github.com/ryanflorence/f812198561c58aec1326ac800e6ea519)
 * [How to restrict your Routes and Links in React.js now with Hooks](https://medium.com/craft-academy/how-to-restrict-your-routes-and-links-in-react-js-now-with-hooks)
@@ -105,6 +113,7 @@ Future: I will consider adding TypeScript links.
 * [Using Suspense with react-query](https://blog.logrocket.com/using-suspense-with-react-query/)
 * [Diving Into React Suspense Render-as-You-Fetch for REST APIs](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis)
 * [Suspense Explained](https://adamrackis.dev/suspense-explained/)
+* [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui)
 
 ### Testing
 * [Behavior-driven React development with Cucumber](https://medium.com/swlh/behavior-driven-react-development-with-cucumber)

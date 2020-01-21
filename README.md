@@ -130,16 +130,16 @@ Future: I will consider adding TypeScript links.
 * [Learn Storybook: Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 ### Styled Components
-* [React. 7 tricks to work with Styled Components](https://medium.com/javascript-in-plain-english/react-7-tricks-to-work-with-styled-components)
-* [Styled Components, Styled Systems and How They Work](https://medium.com/rangle-io/styled-components-styled-systems-and-how-they-work)
-* [Are You Drowning In A Pile Of Styled React Components?](https://codeburst.io/are-you-drowning-in-a-pile-of-styled-react-components)
+* [React. 7 tricks to work with Styled Components](https://medium.com/javascript-in-plain-english/react-7-tricks-to-work-with-styled-components-20eb155934b1)
+* [Styled Components, Styled Systems and How They Work](https://medium.com/rangle-io/styled-components-styled-systems-and-how-they-work-c667be460c19)
+* [Are You Drowning In A Pile Of Styled React Components?](https://codeburst.io/are-you-drowning-in-a-pile-of-styled-react-components-75feb87392ca)
 * [Building Reusable React UI Components with styled-components](https://blog.bitsrc.io/building-reusable-react-ui-components-with-styled-components-290686648004)
 
 ### Suspense
 * [Using Suspense with react-query](https://blog.logrocket.com/using-suspense-with-react-query/)
-* [Diving Into React Suspense Render-as-You-Fetch for REST APIs](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis)
+* [Diving Into React Suspense Render-as-You-Fetch for REST APIs](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59)
 * [Suspense Explained](https://adamrackis.dev/suspense-explained/)
-* [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui)
+* [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
 
 ### Testing
 * [Behavior-driven React development with Cucumber](https://medium.com/swlh/behavior-driven-react-development-with-cucumber)

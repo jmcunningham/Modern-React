@@ -94,12 +94,12 @@ Future: I will consider adding TypeScript links.
 
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
-* [Trim the Fat From Your Bundles Using Webpack Analyzer & React Lazy/Suspense](https://itnext.io/trim-the-fat-from-your-bundles-using-webpack-analyzer-react-lazy-suspense)
-* [6 tips for better React performance](https://itnext.io/6-tips-for-better-react-performance)
+* [Trim the Fat From Your Bundles Using Webpack Analyzer & React Lazy/Suspense](https://itnext.io/trim-the-fat-from-your-bundles-using-webpack-analyzer-react-lazy-suspense-70dfa0ea93d2)
+* [6 tips for better React performance](https://itnext.io/6-tips-for-better-react-performance-4329d12c126b)
 * [A Story of a React Re-Rendering Bug](https://www.eventbrite.com/engineering/a-story-of-a-react-re-rendering-bug/)
-* [How to Memoize Components in React](https://medium.com/@rossbulat/how-to-memoize-in-react)
+* [How to Memoize Components in React](https://medium.com/@rossbulat/how-to-memoize-in-react-3d20cbcd2b6e)
 * React Hooks Oops: [React hooks... Oops! Part 1 - Introduction](https://lukaszmakuch.pl/post/react-hooks-oops-part-1-introduction/), [React hooks... Oops! Part 2 - why does my effect run multiple times with the same dependencies?](https://lukaszmakuch.pl/post/react-hooks-oops-part-2-effect-runs-multiple-times-with-the-same-dependencies/), [React hooks... Oops! Part 3 - an effect doesn't run again when its dependencies change](https://lukaszmakuch.pl/post/react-hooks-oops-part-3-an-effect-does-not-run-again-when-its-dependencies-change)
-* [Increase your React + Redux Application Performance With the Reselect Library](https://medium.com/better-programming/increase-your-react-redux-application-performance-with-reselect-library)
+* [Increase your React + Redux Application Performance With the Reselect Library](https://medium.com/better-programming/increase-your-react-redux-application-performance-with-reselect-library-3f4d632a08c5)
 * [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
 
 ### Portals
@@ -110,23 +110,23 @@ Future: I will consider adding TypeScript links.
 
 ### Redux
 * [Official Redux Style Guide](https://redux.js.org/style-guide/style-guide/)
-* [How I reduced the code in my Redux app by using Redux Hooks](https://medium.com/javascript-in-plain-english/how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks)
+* [How I reduced the code in my Redux app by using Redux Hooks](https://medium.com/javascript-in-plain-english/how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks-b19c926419ea)
 * [Bridging the Gap between React's useState, useReducer, and Redux](https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/)
-* [Selectors in a Redux World](https://medium.com/top-hat-engineering/selectors-in-a-redux-world)
+* [Selectors in a Redux World](https://medium.com/top-hat-engineering/selectors-in-a-redux-world-28178fd3bb23)
 
 ### Refs
 * [A guide to React refs: useRef and createRef](https://blog.logrocket.com/a-guide-to-react-refs/)
 * [Cleaning up the DOM with ForwardRef in React](https://blog.logrocket.com/cleaning-up-the-dom-with-forwardref-in-react/)
-* [React: Using Refs with the useRef Hook](https://medium.com/@rossbulat/react-using-refs-with-the-useref-hook)
+* [React: Using Refs with the useRef Hook](https://medium.com/@rossbulat/react-using-refs-with-the-useref-hook-884ed25b5c29)
 
 ### Routing
 * [Everything I Know About UI Routing by Ryan Florence](https://gist.github.com/ryanflorence/f812198561c58aec1326ac800e6ea519)
-* [How to restrict your Routes and Links in React.js now with Hooks](https://medium.com/craft-academy/how-to-restrict-your-routes-and-links-in-react-js-now-with-hooks)
+* [How to restrict your Routes and Links in React.js now with Hooks](https://medium.com/craft-academy/how-to-restrict-your-routes-and-links-in-react-js-now-with-hooks-12b395c1a2fe)
 * [A Quick Start Guide to Query Strings with React Router](https://spin.atomicobject.com/2019/10/01/a-quick-start-guide-to-query-strings-with-react-router/)
 
 ### Storybook
-* [Storybook 5.3](https://medium.com/storybookjs/storybook-5-3)
-* [Declarative Storybook configuration](https://medium.com/storybookjs/declarative-storybook-configuration)
+* [Storybook 5.3](https://medium.com/storybookjs/storybook-5-3-83e114e8797c)
+* [Declarative Storybook configuration](https://medium.com/storybookjs/declarative-storybook-configuration-49912f77b78)
 * [Learn Storybook: Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 ### Styled Components

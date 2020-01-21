@@ -16,7 +16,7 @@ Future: I will consider adding TypeScript links.
 * [Dev Tools](#dev-tools)
 * [Forms](#forms)
 * [Hooks](#hooks)
-* [Hooks - Custom](#hooks-custom)
+* [Hooks - Custom](#hooks---custom)
 * [Performance](#performance)
 * [Portals](#portals)
 * [PWA](#pwa)

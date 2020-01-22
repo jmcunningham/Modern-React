@@ -8,6 +8,7 @@ NOTE 2: Some of these links may require a Medium membership. If you find a link 
 Future: I will consider adding TypeScript links.
 
 ### React
+* [Animation](#animation)
 * [Architecture & Design](#architecture-and-design)
 * [Authentication](#authentication)
 * [Context](#context)
@@ -34,6 +35,9 @@ Future: I will consider adding TypeScript links.
 
 ## React
 
+### Animation
+* [Animate React with Framer Motion](https://levelup.gitconnected.com/animate-react-with-framer-motion-c761a7ad1c22)
+
 ### Architecture and Design
 * [Sharing React Components: From Atoms and Molecules to Pages](https://blog.bitsrc.io/sharing-react-components-from-atoms-and-molecules-to-pages-2d0d722b1dba)
 * [Domain Driven Design and Functional Pure UI Components](https://dev.to/kmruiz/domain-driven-design-and-functional-pure-ui-components-29a7)
@@ -48,6 +52,7 @@ Future: I will consider adding TypeScript links.
 * [8 Useful Tricks for React Apps You Should Know](https://medium.com/better-programming/8-useful-tricks-for-react-apps-you-should-know-a15c2678c846)
 * [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it)
 * [Leaky Components](https://medium.com/charisol-community/leaky-components-446dec290cb4)
+* [State Machines in React](https://gedd.ski/post/state-machines-in-react/)
 
 ### Authentication
 * [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
@@ -76,6 +81,8 @@ Future: I will consider adding TypeScript links.
 * [Handling React Forms and Validation with Formik and Yup](https://blog.bitsrc.io/handling-react-forms-and-validation-with-formik-and-yup-dc789fd9e485)
 
 ### Hooks
+* [The Guide to Learning React Hooks
+(Examples & Tutorials)](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
 * [Deep dive: How do React hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/)
 * [How to get previous props/state with React Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
 * [React's useEffect and useRef Explained for Mortals](https://leewarrick.com/blog/react-use-effect-explained/)
@@ -104,9 +111,11 @@ Future: I will consider adding TypeScript links.
 * [Increase your React + Redux Application Performance With the Reselect Library](https://medium.com/better-programming/increase-your-react-redux-application-performance-with-reselect-library-3f4d632a08c5)
 * [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
 * [Simplifying state management in React apps with batched updates](https://blog.logrocket.com/simplifying-state-management-in-react-apps-with-batched-updates/)
+* [Improve React Performance](https://medium.com/vena-engineering/optimizing-react-rendering-61a10e741edb)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)
+* [React Portals: What are they and why should we use them?](https://levelup.gitconnected.com/react-portals-what-are-they-and-why-should-we-use-them-7c082a62e8fa)
 
 ### PWA
 * [From create-react-app to PWA](https://blog.logrocket.com/from-create-react-app-to-pwa/)
@@ -116,6 +125,7 @@ Future: I will consider adding TypeScript links.
 * [How I reduced the code in my Redux app by using Redux Hooks](https://medium.com/javascript-in-plain-english/how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks-b19c926419ea)
 * [Bridging the Gap between React's useState, useReducer, and Redux](https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/)
 * [Selectors in a Redux World](https://medium.com/top-hat-engineering/selectors-in-a-redux-world-28178fd3bb23)
+* [Understanding Javascript Selectors With and Without Reselect](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
 
 ### Refs
 * [A guide to React refs: useRef and createRef](https://blog.logrocket.com/a-guide-to-react-refs/)
@@ -133,6 +143,7 @@ Future: I will consider adding TypeScript links.
 * [Learn Storybook: Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 ### Styled Components
+* [React Styled Components Tutorial](https://www.robinwieruch.de/react-styled-components)
 * [React. 7 tricks to work with Styled Components](https://medium.com/javascript-in-plain-english/react-7-tricks-to-work-with-styled-components-20eb155934b1)
 * [Styled Components, Styled Systems and How They Work](https://medium.com/rangle-io/styled-components-styled-systems-and-how-they-work-c667be460c19)
 * [Are You Drowning In A Pile Of Styled React Components?](https://codeburst.io/are-you-drowning-in-a-pile-of-styled-react-components-75feb87392ca)
@@ -157,6 +168,7 @@ Future: I will consider adding TypeScript links.
 * [Complete Guide on Unit and Integration Testing of React/Redux Connected Forms](https://blog.bitsrc.io/complete-guide-on-unit-and-integration-testing-of-react-redux-connected-forms-cd6f8476161)
 * [How To Do the Basics in React Testing Library](https://medium.com/better-programming/how-to-do-the-basics-in-react-testing-library-c52cdb3a7726)
 * [How to Test React Components: the Complete Guide](https://www.freecodecamp.org/news/testing-react-hooks/)
+* [Write Fewer, Longer Tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
 
 ## Javascript
 

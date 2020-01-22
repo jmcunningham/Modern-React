@@ -88,9 +88,11 @@ Future: I will consider adding TypeScript links.
 * [When to useLayoutEffect Instead of useEffect](https://daveceddia.com/useeffect-vs-uselayouteffect/)
 * [React Hooks: Recipes](https://codeburst.io/react-hooks-recipes-1c18e5984abe)
 * [The Power of React Hooks](https://medium.com/better-programming/introduction-to-react-hooks-e0102c038bf1)
+* [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 
 ### Hooks - Custom
 * [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react-3f1779b73568)
+* [Rest Hooks](https://resthooks.io/)
 
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
@@ -101,6 +103,7 @@ Future: I will consider adding TypeScript links.
 * React Hooks Oops: [React hooks... Oops! Part 1 - Introduction](https://lukaszmakuch.pl/post/react-hooks-oops-part-1-introduction/), [React hooks... Oops! Part 2 - why does my effect run multiple times with the same dependencies?](https://lukaszmakuch.pl/post/react-hooks-oops-part-2-effect-runs-multiple-times-with-the-same-dependencies/), [React hooks... Oops! Part 3 - an effect doesn't run again when its dependencies change](https://lukaszmakuch.pl/post/react-hooks-oops-part-3-an-effect-does-not-run-again-when-its-dependencies-change)
 * [Increase your React + Redux Application Performance With the Reselect Library](https://medium.com/better-programming/increase-your-react-redux-application-performance-with-reselect-library-3f4d632a08c5)
 * [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
+* [Simplifying state management in React apps with batched updates](https://blog.logrocket.com/simplifying-state-management-in-react-apps-with-batched-updates/)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)
@@ -152,6 +155,8 @@ Future: I will consider adding TypeScript links.
 * [How to Create and Test React Custom Hooks](https://blog.bitsrc.io/how-to-create-and-test-react-custom-hooks-927fe468c361)
 * [How to Write Functional Tests in React (Part 1)](https://blog.echobind.com/writing-functional-tests-with-react-testing-library-part-1-470870ee1a6)
 * [Complete Guide on Unit and Integration Testing of React/Redux Connected Forms](https://blog.bitsrc.io/complete-guide-on-unit-and-integration-testing-of-react-redux-connected-forms-cd6f8476161)
+* [How To Do the Basics in React Testing Library](https://medium.com/better-programming/how-to-do-the-basics-in-react-testing-library-c52cdb3a7726)
+* [How to Test React Components: the Complete Guide](https://www.freecodecamp.org/news/testing-react-hooks/)
 
 ## Javascript
 

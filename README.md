@@ -37,6 +37,7 @@ Future: I will consider adding TypeScript links.
 
 ### Animation
 * [Animate React with Framer Motion](https://levelup.gitconnected.com/animate-react-with-framer-motion-c761a7ad1c22)
+* [Implementing animations in React with React Spring](https://blog.logrocket.com/animations-with-react-spring/)
 
 ### Architecture and Design
 * [Sharing React Components: From Atoms and Molecules to Pages](https://blog.bitsrc.io/sharing-react-components-from-atoms-and-molecules-to-pages-2d0d722b1dba)
@@ -100,6 +101,7 @@ Future: I will consider adding TypeScript links.
 ### Hooks - Custom
 * [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react-3f1779b73568)
 * [Rest Hooks](https://resthooks.io/)
+* [React Async](https://docs.react-async.com/)
 
 ### Performance
 * [10 Ways to Optimize Your React App’s Performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
@@ -112,6 +114,11 @@ Future: I will consider adding TypeScript links.
 * [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
 * [Simplifying state management in React apps with batched updates](https://blog.logrocket.com/simplifying-state-management-in-react-apps-with-batched-updates/)
 * [Improve React Performance](https://medium.com/vena-engineering/optimizing-react-rendering-61a10e741edb)
+* [You’re overusing useMemo: Rethinking Hooks memoization](https://blog.logrocket.com/rethinking-hooks-memoization/)
+* [Premature Optimize the Heck Out of Your React Apps Using Memoization](https://www.robertcooper.me/premature-optimize-the-heck-out-of-your-react-apps-using-memoization)
+* [Use React.memo Wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
+* [React Hooks: Optimizing for performance](https://itnext.io/optimizing-react-code-with-hooks-3eaaf5978351)
+* [Progressive React](https://houssein.me/progressive-react)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)
@@ -126,11 +133,14 @@ Future: I will consider adding TypeScript links.
 * [Bridging the Gap between React's useState, useReducer, and Redux](https://leewarrick.com/blog/a-guide-to-usestate-and-usereducer/)
 * [Selectors in a Redux World](https://medium.com/top-hat-engineering/selectors-in-a-redux-world-28178fd3bb23)
 * [Understanding Javascript Selectors With and Without Reselect](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
+* [Simplify Redux Reducers with Lenses](https://levelup.gitconnected.com/simplify-redux-reducers-with-lenses-8ec6b2de3ae2)
 
 ### Refs
 * [A guide to React refs: useRef and createRef](https://blog.logrocket.com/a-guide-to-react-refs/)
 * [Cleaning up the DOM with ForwardRef in React](https://blog.logrocket.com/cleaning-up-the-dom-with-forwardref-in-react/)
 * [React: Using Refs with the useRef Hook](https://medium.com/@rossbulat/react-using-refs-with-the-useref-hook-884ed25b5c29)
+* [The Complete Guide to React Refs](https://rafaelquintanilha.com/the-complete-guide-to-react-refs/)
+* [How to Use React Refs](https://medium.com/@rossbulat/how-to-use-react-refs-4541a7501663)
 
 ### Routing
 * [Everything I Know About UI Routing by Ryan Florence](https://gist.github.com/ryanflorence/f812198561c58aec1326ac800e6ea519)
@@ -154,6 +164,7 @@ Future: I will consider adding TypeScript links.
 * [Diving Into React Suspense Render-as-You-Fetch for REST APIs](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59)
 * [Suspense Explained](https://adamrackis.dev/suspense-explained/)
 * [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
+* [Code Splitting in React with Lazy Components](https://fauna.com/blog/code-splitting-in-react-with-lazy-components)
 
 ### Testing
 * [Behavior-driven React development with Cucumber](https://medium.com/swlh/behavior-driven-react-development-with-cucumber-faf596d9d71b)

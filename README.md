@@ -3,7 +3,9 @@ Links to articles to help developers with writing modern React (web) apps. Also 
 
 NOTE: Currently these are links I've added to Pocket over the last 12 months, many of which I haven't read. I'm creating this page to help others, and to nudge me to start reading them. As I start reading through these, I will remove the articles that aren't too helpful, so that this page evolves into a list of **vetted** links. 
 
-NOTE 2: Some of these links may require a Medium membership. If you find a link that requires a Medium membership, but the article is also available for free (because it was republished on Medium), please let me know and I'll update the link.
+NOTE 2: I am once again adding new links to this (Jan 2021)...12 months after the first batch were added. Some of those original links might be stale now and will be cleaned up later.
+
+NOTE 3: Some of these links may require a Medium membership. If you find a link that requires a Medium membership, but the article is also available for free (because it was republished on Medium), please let me know and I'll update the link.
 
 Future: I will consider adding TypeScript links.
 
@@ -28,6 +30,7 @@ Future: I will consider adding TypeScript links.
 * [Styled Components](#styled-components)
 * [Suspense & Concurrent](#suspense)
 * [Testing](#testing)
+* [Typescript & React](#typescript---react)
 
 ### Javascript
 * [Symbols](#symbols)
@@ -180,6 +183,9 @@ Future: I will consider adding TypeScript links.
 * [How To Do the Basics in React Testing Library](https://medium.com/better-programming/how-to-do-the-basics-in-react-testing-library-c52cdb3a7726)
 * [How to Test React Components: the Complete Guide](https://www.freecodecamp.org/news/testing-react-hooks/)
 * [Write Fewer, Longer Tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
+
+### Typescript - React
+
 
 ## Javascript
 

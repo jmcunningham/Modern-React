@@ -57,6 +57,7 @@ Future: I will consider adding TypeScript links.
 * [Don't Sync State. Derive It!](https://kentcdodds.com/blog/dont-sync-state-derive-it)
 * [Leaky Components](https://medium.com/charisol-community/leaky-components-446dec290cb4)
 * [State Machines in React](https://gedd.ski/post/state-machines-in-react/)
+* [React Component Patterns](https://dev.to/alexi_be3/react-component-patterns-49ho?ck_subscriber_id=350799811)
 
 ### Authentication
 * [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
@@ -67,6 +68,7 @@ Future: I will consider adding TypeScript links.
 * [Manage Global State with Context API and Hooks](https://react.christmas/2019/7)
 * [Learn React Context in 5 Minutes - A Beginner's Tutorial](https://www.freecodecamp.org/news/react-context-in-5-minutes/)
 * [React Context Patterns with useContext Hook](https://medium.com/javascript-in-plain-english/react-context-patterns-with-usecontext-hook-62085b90c7eb)
+* [Using React Context, the Right Way](https://medium.com/nerd-for-tech/using-react-context-the-right-way-cf5e011dc4ba)
 
 ### CSS-in-JS
 * [Understanding CSS-in-JS](https://www.telerik.com/blogs/understanding-css-in-js)
@@ -122,6 +124,8 @@ Future: I will consider adding TypeScript links.
 * [Use React.memo Wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
 * [React Hooks: Optimizing for performance](https://itnext.io/optimizing-react-code-with-hooks-3eaaf5978351)
 * [Progressive React](https://houssein.me/progressive-react)
+* [How to useRef to Fix React Performance Issues](https://medium.com/antlerglobal/how-to-useref-to-fix-react-performance-issues-886dec9edb03)
+* [React is slow, what now?](https://nosleepjavascript.com/react-performance/?ck_subscriber_id=350799811)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)
@@ -183,9 +187,14 @@ Future: I will consider adding TypeScript links.
 * [How To Do the Basics in React Testing Library](https://medium.com/better-programming/how-to-do-the-basics-in-react-testing-library-c52cdb3a7726)
 * [How to Test React Components: the Complete Guide](https://www.freecodecamp.org/news/testing-react-hooks/)
 * [Write Fewer, Longer Tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
+* [Declarative and Scalable Testing With React Testing Library](https://medium.com/javascript-in-plain-english/declarative-and-scalable-testing-with-react-testing-library-177f35f41396)
+* [The Practical Guide to React Testing Library with TypeScript](https://medium.com/javascript-in-plain-english/the-practical-guide-to-start-react-testing-library-with-typescript-d386804a018)
 
 ### Typescript - React
-
+* [TypeScript + React: Component patterns](https://fettblog.eu/typescript-react-component-patterns/)
+* [A peculiar journey to a generic React component using TypeScript](https://medium.com/weekly-webtips/typescript-generic-react-components-17c71a64150e)
+* [Typescript & React: Manipulating Prop Types](https://rossbulat.medium.com/typescript-react-manipulating-prop-types-ec13f841a550)
+* [React + TypeScript: The Good Parts](https://dev.to/diemax/react-typescript-the-good-parts-428f?ck_subscriber_id=350799811)
 
 ## Javascript
 

@@ -29,7 +29,6 @@ Future: I will consider adding TypeScript links.
 * [Refs](#refs)
 * [Routing](#routing)
 * [Storybook](#storybook)
-* [Styled Components](#styled-components)
 * [Suspense & Concurrent](#suspense)
 * [Testing](#testing)
 * [Typescript & React](#typescript---react)
@@ -42,6 +41,7 @@ Future: I will consider adding TypeScript links.
 
 ### Accessibility
 * [The most useful accessibility testing tools and techniques](https://blog.sapegin.me/all/accessibility-testing/)
+* [A Guide to Accessible Interactive Components using React Libraries](https://www.a11ywithlindsey.com/blog/accessible-interactive-components-react)
 
 ### Animation
 * [Animate React with Framer Motion](https://levelup.gitconnected.com/animate-react-with-framer-motion-c761a7ad1c22)
@@ -67,6 +67,10 @@ Future: I will consider adding TypeScript links.
 * [How React Uses Closures to Avoid Bugs](https://epicreact.dev/how-react-uses-closures-to-avoid-bugs/)
 * [React component code smells](https://antongunnarsson.com/react-component-code-smells/)
 * [Thoughts on Device Based Code Split in React](https://webup.org/blog/react-device-based-code-split/?ck_subscriber_id=350799811)
+* A Visual Guide to React Mental Models [Part 1](https://obedparla.com/code/a-visual-guide-to-react-mental-models/), [Part 2: UseState, UseEffect And Lifecycles](https://obedparla.com/code/a-visual-guide-to-react-mental-models-part-2-use-state-use-effect-and-lifecycles/)
+* [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+* [When does React re-render components?](https://felixgerschau.com/react-rerender-components/)
+* [How to build bulletproof react components](https://dev.to/jsco/how-to-build-bulletproof-react-components-mo7)
 
 ### Authentication
 * [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
@@ -115,6 +119,10 @@ Future: I will consider adding TypeScript links.
 * [5 Mistakes to Avoid When Using React Hooks](https://dmitripavlutin.com/react-hooks-mistakes-to-avoid/)
 * [How to useEffect in React](https://www.robinwieruch.de/react-useeffect-hook)
 * [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
+* [Your Guide to React.useCallback](https://dmitripavlutin.com/dont-overuse-react-usecallback/)
+* [useEffect under the Hood](https://www.bussieck.com/useeffect-under-the-hood/)
+* [How to use React.memo() to improve performance](https://felixgerschau.com/react-performance-react-memo/)
+* [Understanding the useEffect Dependency Array](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 
 ### Hooks - Custom
 * [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react-3f1779b73568)
@@ -145,6 +153,8 @@ Future: I will consider adding TypeScript links.
 * [React is slow, what now?](https://nosleepjavascript.com/react-performance/?ck_subscriber_id=350799811)
 * [Optimize React Apps PageSpeed Insights Score](https://thetuteur.com/optimize-react-apps-pagespeed-insights-score/?ck_subscriber_id=350799811)
 * [React Faster Performance: Highlighting React Components Updates](https://medium.com/dev-proto/highlight-react-components-updates-1b2832f2ce48)
+* [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
+* [Measure Performance with the New React Profiler Component](https://blog.bitsrc.io/measure-performance-with-the-new-react-profiler-component-14d3801d232d)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)
@@ -183,13 +193,6 @@ Future: I will consider adding TypeScript links.
 * [Learn Storybook: Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 * [Building React Apps With Storybook](https://www.smashingmagazine.com/2020/09/building-react-apps-storybook/)
 
-### Styled Components
-* [React Styled Components Tutorial](https://www.robinwieruch.de/react-styled-components)
-* [React. 7 tricks to work with Styled Components](https://medium.com/javascript-in-plain-english/react-7-tricks-to-work-with-styled-components-20eb155934b1)
-* [Styled Components, Styled Systems and How They Work](https://medium.com/rangle-io/styled-components-styled-systems-and-how-they-work-c667be460c19)
-* [Are You Drowning In A Pile Of Styled React Components?](https://codeburst.io/are-you-drowning-in-a-pile-of-styled-react-components-75feb87392ca)
-* [Building Reusable React UI Components with styled-components](https://blog.bitsrc.io/building-reusable-react-ui-components-with-styled-components-290686648004)
-
 ### Suspense
 * [Using Suspense with react-query](https://blog.logrocket.com/using-suspense-with-react-query/)
 * [Diving Into React Suspense Render-as-You-Fetch for REST APIs](https://medium.com/better-programming/diving-into-react-suspense-render-as-you-fetch-for-rest-apis-bf2d20ea7c59)
@@ -199,6 +202,8 @@ Future: I will consider adding TypeScript links.
 * [Code-Split Your React App With Lazy and Suspense](https://medium.com/better-programming/code-split-your-react-app-with-lazy-suspense-9bab11f492b5)
 * [Code Splitting with React, React.lazy, and React Router v5](https://ui.dev/react-router-v5-code-splitting/)
 * [A Gentle Introduction to Code Splitting with React](https://blog.kommit.co/a-gentle-introduction-to-code-splitting-with-react-395ddf44b71b)
+* [Effective Code Splitting in React: A Practical Guide](https://hackernoon.com/effective-code-splitting-in-react-a-practical-guide-2195359d5d49?source=rss)
+* [React Suspense in Practice](https://css-tricks.com/react-suspense-in-practice/)
 
 ### Testing
 * [Behavior-driven React development with Cucumber](https://medium.com/swlh/behavior-driven-react-development-with-cucumber-faf596d9d71b)
@@ -221,6 +226,8 @@ Future: I will consider adding TypeScript links.
 * [Discovering Mock Service Worker](https://watsonbox.github.io/posts/2020/11/30/discovering-msw.html?ck_subscriber_id=350799811)
 * [An in-depth beginner's guide to testing React applications in 2020](https://jkettmann.com/beginners-guide-to-testing-react)
 * [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library)
+* [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
+* [9 React Testing Library Tips and Tricks](https://medium.com/better-programming/9-react-testing-library-tips-and-tricks-5cce3e458282)
 
 ### Typescript - React
 * [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
@@ -231,6 +238,7 @@ Future: I will consider adding TypeScript links.
 * [The Better Way to Type React Components](https://medium.com/variant-as/a-better-way-to-type-react-components-9a6460a1d4b7)
 * [Do not create union types with Redux Action Types. It's most likely an antipattern.](https://phryneas.de/redux-typescript-no-discriminating-union)
 * [How to Use Redux in Your React TypeScript App](https://www.freecodecamp.org/news/how-to-use-redux-in-your-react-typescript-app/)
+* [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 
 ## Javascript
 

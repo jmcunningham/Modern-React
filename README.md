@@ -63,6 +63,7 @@ Future: I will consider adding TypeScript links.
 * [State Machines in React](https://gedd.ski/post/state-machines-in-react/)
 * [React Component Patterns](https://dev.to/alexi_be3/react-component-patterns-49ho?ck_subscriber_id=350799811)
 * [Five common mistakes writing react components (with hooks) in 2020](https://www.lorenzweiss.de/common_mistakes_react_hooks/)
+* [How React Uses Closures to Avoid Bugs](https://epicreact.dev/how-react-uses-closures-to-avoid-bugs/)
 
 ### Authentication
 * [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
@@ -108,6 +109,8 @@ Future: I will consider adding TypeScript links.
 * [React Hooks: Recipes](https://codeburst.io/react-hooks-recipes-1c18e5984abe)
 * [The Power of React Hooks](https://medium.com/better-programming/introduction-to-react-hooks-e0102c038bf1)
 * [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
+* [5 Mistakes to Avoid When Using React Hooks](https://dmitripavlutin.com/react-hooks-mistakes-to-avoid/)
+* [How to useEffect in React](https://www.robinwieruch.de/react-useeffect-hook)
 
 ### Hooks - Custom
 * [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react-3f1779b73568)
@@ -154,6 +157,8 @@ Future: I will consider adding TypeScript links.
 * [React: Using Refs with the useRef Hook](https://medium.com/@rossbulat/react-using-refs-with-the-useref-hook-884ed25b5c29)
 * [The Complete Guide to React Refs](https://rafaelquintanilha.com/the-complete-guide-to-react-refs/)
 * [How to Use React Refs](https://medium.com/@rossbulat/how-to-use-react-refs-4541a7501663)
+* [React Refs: The Complete Story](https://unicorn-utterances.com/posts/react-refs-complete-story/?ck_subscriber_id=350799811)
+* [A Thoughtful Way To Use React’s useRef() Hook](https://www.smashingmagazine.com/2020/11/react-useref-hook/)
 
 ### Routing
 * [Everything I Know About UI Routing by Ryan Florence](https://gist.github.com/ryanflorence/f812198561c58aec1326ac800e6ea519)
@@ -196,6 +201,8 @@ Future: I will consider adding TypeScript links.
 * [Declarative and Scalable Testing With React Testing Library](https://medium.com/javascript-in-plain-english/declarative-and-scalable-testing-with-react-testing-library-177f35f41396)
 * [The Practical Guide to React Testing Library with TypeScript](https://medium.com/javascript-in-plain-english/the-practical-guide-to-start-react-testing-library-with-typescript-d386804a018)
 * Modern React Testing: [Part 1: Best Practices](https://blog.sapegin.me/all/react-testing-1-best-practices/), [Part 2: Jest & Enzyme](https://blog.sapegin.me/all/react-testing-2-jest-and-enzyme/), [Part 3: Jest & React Testing Library](https://blog.sapegin.me/all/react-testing-3-jest-and-react-testing-library/), [Part 4: Cypress & Cypress Testing Library](https://blog.sapegin.me/all/react-testing-4-cypress/)
+* [How to Test React.useEffect](https://epicreact.dev/how-to-test-react-use-effect/)
+* [Discovering Mock Service Worker](https://watsonbox.github.io/posts/2020/11/30/discovering-msw.html?ck_subscriber_id=350799811)
 
 ### Typescript - React
 * [TypeScript + React: Component patterns](https://fettblog.eu/typescript-react-component-patterns/)
@@ -203,6 +210,7 @@ Future: I will consider adding TypeScript links.
 * [Typescript & React: Manipulating Prop Types](https://rossbulat.medium.com/typescript-react-manipulating-prop-types-ec13f841a550)
 * [React + TypeScript: The Good Parts](https://dev.to/diemax/react-typescript-the-good-parts-428f?ck_subscriber_id=350799811)
 * [The Better Way to Type React Components](https://medium.com/variant-as/a-better-way-to-type-react-components-9a6460a1d4b7)
+* [Do not create union types with Redux Action Types. It's most likely an antipattern.](https://phryneas.de/redux-typescript-no-discriminating-union)
 
 ## Javascript
 

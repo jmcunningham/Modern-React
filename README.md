@@ -10,6 +10,7 @@ NOTE 3: Some of these links may require a Medium membership. If you find a link 
 Future: I will consider adding TypeScript links.
 
 ### React
+* [Accessibility](#accessibility)
 * [Animation](#animation)
 * [Architecture & Design](#architecture-and-design)
 * [Authentication](#authentication)
@@ -38,6 +39,9 @@ Future: I will consider adding TypeScript links.
 
 ## React
 
+### Accessibility
+* [The most useful accessibility testing tools and techniques](https://blog.sapegin.me/all/accessibility-testing/)
+
 ### Animation
 * [Animate React with Framer Motion](https://levelup.gitconnected.com/animate-react-with-framer-motion-c761a7ad1c22)
 * [Implementing animations in React with React Spring](https://blog.logrocket.com/animations-with-react-spring/)
@@ -58,6 +62,7 @@ Future: I will consider adding TypeScript links.
 * [Leaky Components](https://medium.com/charisol-community/leaky-components-446dec290cb4)
 * [State Machines in React](https://gedd.ski/post/state-machines-in-react/)
 * [React Component Patterns](https://dev.to/alexi_be3/react-component-patterns-49ho?ck_subscriber_id=350799811)
+* [Five common mistakes writing react components (with hooks) in 2020](https://www.lorenzweiss.de/common_mistakes_react_hooks/)
 
 ### Authentication
 * [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
@@ -72,6 +77,7 @@ Future: I will consider adding TypeScript links.
 
 ### CSS-in-JS
 * [Understanding CSS-in-JS](https://www.telerik.com/blogs/understanding-css-in-js)
+* [How to increase CSS-in-JS performance by 175x](https://itnext.io/how-to-increase-css-in-js-performance-by-175x-f30ddeac6bce)
 
 ### Data Fetching
 * [React Adaptive Loading Hooks & Utilities](https://github.com/GoogleChromeLabs/react-adaptive-hooks/blob/master/README.md)
@@ -189,12 +195,14 @@ Future: I will consider adding TypeScript links.
 * [Write Fewer, Longer Tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
 * [Declarative and Scalable Testing With React Testing Library](https://medium.com/javascript-in-plain-english/declarative-and-scalable-testing-with-react-testing-library-177f35f41396)
 * [The Practical Guide to React Testing Library with TypeScript](https://medium.com/javascript-in-plain-english/the-practical-guide-to-start-react-testing-library-with-typescript-d386804a018)
+* Modern React Testing: [Part 1: Best Practices](https://blog.sapegin.me/all/react-testing-1-best-practices/), [Part 2: Jest & Enzyme](https://blog.sapegin.me/all/react-testing-2-jest-and-enzyme/), [Part 3: Jest & React Testing Library](https://blog.sapegin.me/all/react-testing-3-jest-and-react-testing-library/), [Part 4: Cypress & Cypress Testing Library](https://blog.sapegin.me/all/react-testing-4-cypress/)
 
 ### Typescript - React
 * [TypeScript + React: Component patterns](https://fettblog.eu/typescript-react-component-patterns/)
 * [A peculiar journey to a generic React component using TypeScript](https://medium.com/weekly-webtips/typescript-generic-react-components-17c71a64150e)
 * [Typescript & React: Manipulating Prop Types](https://rossbulat.medium.com/typescript-react-manipulating-prop-types-ec13f841a550)
 * [React + TypeScript: The Good Parts](https://dev.to/diemax/react-typescript-the-good-parts-428f?ck_subscriber_id=350799811)
+* [The Better Way to Type React Components](https://medium.com/variant-as/a-better-way-to-type-react-components-9a6460a1d4b7)
 
 ## Javascript
 

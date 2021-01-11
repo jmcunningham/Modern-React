@@ -129,6 +129,7 @@ Future: I will consider adding TypeScript links.
 * [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 * [useEffect is not the new componentDidMount](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/)
 * [Everything You Want to Know About React Refs](https://medium.com/better-programming/most-things-you-want-to-know-about-react-refs-29901ebf28c6)
+* [React.useRef and React.createRef: The Difference](https://blog.bitsrc.io/react-useref-and-react-createref-the-difference-afedb9877d0f)
 
 ### Hooks - Custom
 * [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react-3f1779b73568)
@@ -162,6 +163,8 @@ Future: I will consider adding TypeScript links.
 * [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
 * [Measure Performance with the New React Profiler Component](https://blog.bitsrc.io/measure-performance-with-the-new-react-profiler-component-14d3801d232d)
 * [3 common mistakes that impede React reconciliation and updating processes](https://medium.com/strands-tech-corner/3-common-mistakes-that-impede-react-reconciliation-and-updating-processes-8b917ebde61e)
+* [Advanced memoization and effects in React](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
+* [Performance Optimization with React Hooks and Memo](https://medium.com/better-programming/performance-optimization-with-react-hooks-and-memo-e3186f7ff9ab)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)
@@ -193,6 +196,8 @@ Future: I will consider adding TypeScript links.
 * [How to restrict your Routes and Links in React.js now with Hooks](https://medium.com/craft-academy/how-to-restrict-your-routes-and-links-in-react-js-now-with-hooks-12b395c1a2fe)
 * [A Quick Start Guide to Query Strings with React Router](https://spin.atomicobject.com/2019/10/01/a-quick-start-guide-to-query-strings-with-react-router/)
 * [Nested routes with React Router v5](https://ui.dev/react-router-v5-nested-routes/)
+* [Google Analytics with React Router](https://medium.com/javascript-in-plain-english/google-analytics-with-react-router-and-hooks-16d403ddc528)
+* [Code Splitting by Routes and Components in React](https://medium.com/swlh/code-splitting-by-routes-and-components-in-react-4225707d372d)
 
 ### Storybook
 * [Storybook 5.3](https://medium.com/storybookjs/storybook-5-3-83e114e8797c)
@@ -246,6 +251,7 @@ Future: I will consider adding TypeScript links.
 * [Do not create union types with Redux Action Types. It's most likely an antipattern.](https://phryneas.de/redux-typescript-no-discriminating-union)
 * [How to Use Redux in Your React TypeScript App](https://www.freecodecamp.org/news/how-to-use-redux-in-your-react-typescript-app/)
 * [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
+* [React with TypeScript: Best Practices](https://www.sitepoint.com/react-with-typescript-best-practices/)
 
 ## Javascript
 

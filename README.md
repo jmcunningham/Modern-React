@@ -42,6 +42,7 @@ Future: I will consider adding TypeScript links.
 ### Accessibility
 * [The most useful accessibility testing tools and techniques](https://blog.sapegin.me/all/accessibility-testing/)
 * [A Guide to Accessible Interactive Components using React Libraries](https://www.a11ywithlindsey.com/blog/accessible-interactive-components-react)
+* [Act now to make your React website accessible](https://blog.logrocket.com/make-your-react-website-accessible/)
 
 ### Animation
 * [Animate React with Framer Motion](https://levelup.gitconnected.com/animate-react-with-framer-motion-c761a7ad1c22)
@@ -71,6 +72,8 @@ Future: I will consider adding TypeScript links.
 * [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 * [When does React re-render components?](https://felixgerschau.com/react-rerender-components/)
 * [How to build bulletproof react components](https://dev.to/jsco/how-to-build-bulletproof-react-components-mo7)
+* [Build A Confirmation Modal in React with State Machines](https://daveceddia.com/react-confirmation-modal-state-machine/)
+* [Write clean(er) Components & JSX](https://itnext.io/write-clean-er-components-jsx-1e70491baded)
 
 ### Authentication
 * [How to Add Authenticated Routes to Your React App](https://medium.com/javascript-in-plain-english/how-to-add-authenticated-routes-to-your-react-app-f496ff266533)
@@ -123,6 +126,9 @@ Future: I will consider adding TypeScript links.
 * [useEffect under the Hood](https://www.bussieck.com/useeffect-under-the-hood/)
 * [How to use React.memo() to improve performance](https://felixgerschau.com/react-performance-react-memo/)
 * [Understanding the useEffect Dependency Array](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
+* [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+* [useEffect is not the new componentDidMount](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/)
+* [Everything You Want to Know About React Refs](https://medium.com/better-programming/most-things-you-want-to-know-about-react-refs-29901ebf28c6)
 
 ### Hooks - Custom
 * [useBreakpoint Hook — Get Media Query Breakpoints in React](https://medium.com/better-programming/usebreakpoint-hook-get-media-query-breakpoints-in-react-3f1779b73568)
@@ -155,6 +161,7 @@ Future: I will consider adding TypeScript links.
 * [React Faster Performance: Highlighting React Components Updates](https://medium.com/dev-proto/highlight-react-components-updates-1b2832f2ce48)
 * [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
 * [Measure Performance with the New React Profiler Component](https://blog.bitsrc.io/measure-performance-with-the-new-react-profiler-component-14d3801d232d)
+* [3 common mistakes that impede React reconciliation and updating processes](https://medium.com/strands-tech-corner/3-common-mistakes-that-impede-react-reconciliation-and-updating-processes-8b917ebde61e)
 
 ### Portals
 * [Learn React Portals by example](https://blog.logrocket.com/learn-react-portals-by-example/)

@@ -6,9 +6,9 @@
 * [Functions](#functions)
 * [Generics](#generics)
 * [Interfaces](#interfaces)
-* [Iterators & Generators](iterators---generators)
+* [Iterators & Generators](iterators--generators)
 * [Literal Types](#literal-types)
-* [Union & Intersection](#union---intersection)
+* [Union & Intersection](#union--intersection)
 
 ### V4
 * [Crazy, Powerful TypeScript 4.1 Features](https://medium.com/swlh/crazy-powerful-typescript-4-1-features-26036f4de6bc)
